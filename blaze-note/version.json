@@ -1,0 +1,10 @@
+{
+  "ios":     { "version": "1.0.2" },
+  "android": { "version": "1.0.1" },
+  "notes": {
+    "vi": "Cải thiện độ ổn định và sửa lỗi.",
+    "en": "Stability improvements and bug fixes.",
+    "zh": "提升稳定性并修复问题。",
+    "km": "កែលម្អស្ថិរភាព និងជួសជុលកំហុស។"
+  }
+}
