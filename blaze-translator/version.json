@@ -1,5 +1,5 @@
 {
-  "ios":     { "version": "1.0.1" },
+  "ios":     { "version": "1.0.3" },
   "android": { "version": "1.0.3" },
   "notes": {
     "vi": "Cải thiện độ ổn định và sửa lỗi.",
